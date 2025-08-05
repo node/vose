@@ -11,5 +11,9 @@ Darts, Dice, and Coins: Sampling from a Discrete Distribution , by Keith Schwarz
 
 Usage
 ====
-TODO
- 
+As a module, you can import vose as the following code: 
+
+```Python
+from vose import Vose
+
+```
