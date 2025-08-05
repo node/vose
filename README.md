@@ -17,3 +17,9 @@ As a module, you can import vose as the following code:
 from vose import Vose
 
 ```
+
+Example
+====
+
+- Example 1: Using a List of Weights  vose_example1.py
+- Example 2: Using a Dictionary vose_example2.py
